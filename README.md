@@ -1,2 +1,2 @@
 # DSA_practice
-Questions i practice
+Collections of questions solved under DSA
