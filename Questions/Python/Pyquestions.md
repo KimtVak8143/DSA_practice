@@ -40,3 +40,68 @@
 - Topics :
 - Link to problem :
 - Source/Category/Platform :
+
+##Question 5
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 6
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 7
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 8
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 9
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 10
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 11
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 12
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
