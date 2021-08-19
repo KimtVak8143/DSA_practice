@@ -26,12 +26,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 3
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 19 August 2021
+- Statement : What's your name ?
+- Language : python3
+- Topics : string , .format()
+- Link to problem : https://www.hackerrank.com/challenges/whats-your-name/problem
+- Source/Category/Platform :HackerRank
 
 ##Question 4
 - Date : 
