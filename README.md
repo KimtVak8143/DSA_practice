@@ -4,7 +4,7 @@ Collections of questions solved under DSA
 - Problem 1 : Swap Case
 - Problem 2 : String split and join
 - Problem 3 : What's your name ?
-- Problem 4 :
+- Problem 4 : Mutations
 - Problem 5 :
 - Problem 6 :
 - Problem 7 :
