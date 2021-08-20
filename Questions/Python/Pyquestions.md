@@ -34,12 +34,12 @@
 - Source/Category/Platform :HackerRank
 
 ##Question 4
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 20 August 2021
+- Statement : Mutations
+- Language : Python3
+- Topics : string, join, list, split
+- Link to problem : https://www.hackerrank.com/challenges/python-mutations/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 5
 - Date : 
