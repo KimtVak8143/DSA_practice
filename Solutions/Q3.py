@@ -1,4 +1,4 @@
-# Solution of Problem 2
+# Solution of Problem 3
 
 # Complete the 'print_full_name' function below.
 #

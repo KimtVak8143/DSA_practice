@@ -5,7 +5,7 @@ Collections of questions solved under DSA
 - Problem 2 : String split and join
 - Problem 3 : What's your name ?
 - Problem 4 : Mutations
-- Problem 5 :
+- Problem 5 : Find a String
 - Problem 6 :
 - Problem 7 :
 - Problem 8 :

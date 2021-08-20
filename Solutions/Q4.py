@@ -1,4 +1,4 @@
-# Solution of Problem 2
+# Solution of Problem 4
 
 def mutate_string(string, position, character):
     # new = string[:position] + character + string[position+1:]

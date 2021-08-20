@@ -43,11 +43,11 @@
 
 ##Question 5
 - Date : 
-- Statement : 
-- Language :
+- Statement : Find a string
+- Language : Python
 - Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Link to problem : https://www.hackerrank.com/challenges/find-a-string/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 6
 - Date : 
