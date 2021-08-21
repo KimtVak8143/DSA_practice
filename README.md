@@ -6,7 +6,7 @@ Collections of questions solved under DSA
 - Problem 3 : What's your name ?
 - Problem 4 : Mutations
 - Problem 5 : Find a String
-- Problem 6 :
+- Problem 6 : String Validators
 - Problem 7 :
 - Problem 8 :
 - Problem 9 :

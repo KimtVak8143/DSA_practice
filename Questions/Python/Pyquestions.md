@@ -50,12 +50,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 6
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 21 August 2021
+- Statement : String Validators
+- Language : Python
+- Topics : String, isalnum(), isalpha(), isdigit(), islower(), isupper(), 
+- Link to problem : https://www.hackerrank.com/challenges/string-validators/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 7
 - Date : 
