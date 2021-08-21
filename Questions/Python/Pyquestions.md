@@ -42,10 +42,10 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 5
-- Date : 
+- Date : 21 August 2021
 - Statement : Find a string
 - Language : Python
-- Topics :
+- Topics : String, Startswith(), count, condensed loop result **(Imp)**
 - Link to problem : https://www.hackerrank.com/challenges/find-a-string/problem
 - Source/Category/Platform : HackerRank
 
