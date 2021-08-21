@@ -1,5 +1,6 @@
 # DSA_practice
 Collections of questions solved under DSA
+Language : C/C++
 
 - Problem 1 : Swap Case
 - Problem 2 : String split and join
