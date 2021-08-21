@@ -58,12 +58,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 7
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 21 August 2021
+- Statement : Text Alignment 
+- Language : Python
+- Topics : String, .center(), .ljust(), .rjust()
+- Link to problem : https://www.hackerrank.com/challenges/text-alignment/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 8
 - Date : 

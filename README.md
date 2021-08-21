@@ -7,7 +7,7 @@ Collections of questions solved under DSA
 - Problem 4 : Mutations
 - Problem 5 : Find a String
 - Problem 6 : String Validators
-- Problem 7 :
+- Problem 7 : Text Alignment
 - Problem 8 :
 - Problem 9 :
 - Problem 10 :
