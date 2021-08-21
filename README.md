@@ -28,7 +28,7 @@ P.S. LeetCode - aukaat se bahar hai abhi ke liye
 ## Contributing Guidelines/ Instructions : 
 #### 1. Fork this repo and clone onto your Local Machine
 #### 2. switch to a new Branch
-#### 3. Added solution file and make necessary Changes. 
+#### 3. Add solution file and make necessary Changes. 
 (Be sure to Add test cases in every solution and Instructions wherever necessary)
 #### 4. Push your Changes
 #### 5. Create A pull Request in below format :
