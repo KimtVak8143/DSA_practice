@@ -6,14 +6,9 @@
 P.S. LeetCode - aukaat se bahar hai abhi ke liye
 (Translation : LeetCode is 😍)
 
-### Questions Index :
+<h3>Questions <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/Questions/QnREADME.md">Index</a></h3>
+<h3>Solutions <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/Solutions/SolREADME.md">Index</a></h2>
 
-<p>1. <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/Questions/Pyquestions.md">Python</a></p>
-<p>2. <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/Questions/Cquestions.md">C/C++</a></p>
-
-### Solutions Index :
-<p>1. <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/Solutions/PyREADME.md">Python</a></p>
-<p>2. <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/Solutions/CREADME.md">C/C++</a></p>
 
 ## Contributions are Welcome
 
