@@ -9,7 +9,7 @@ Language : Python
 - Problem 5 : Find a String
 - Problem 6 : String Validators
 - Problem 7 : Text Alignment
-- Problem 8 :
+- Problem 8 : Find the Runner-Up Score !
 - Problem 9 :
 - Problem 10 :
 - Problem 11 :
