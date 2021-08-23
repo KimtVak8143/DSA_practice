@@ -66,12 +66,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 8
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 23 August 2021
+- Statement : Find the Runner-Up Score !
+- Language : Python3
+- Topics : list, map, max()
+- Link to problem : https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 9
 - Date : 
