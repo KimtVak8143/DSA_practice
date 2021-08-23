@@ -1,6 +1,6 @@
 # Welcome to DSA Practice Repo
 
-### Maintained and Structured by Mohit Kumar Kushwaha 
+<h3>Maintained and Structured by <a href="https://github.com/KimtVak8143">Mohit Kumar Kushwaha</a></h3> 
 
 ### Problems are included from HackerRank, HackerEarth, CodeChef
 P.S. LeetCode - aukaat se bahar hai abhi ke liye
