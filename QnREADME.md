@@ -74,12 +74,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 9
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 26 August 2021
+- Statement : ATM
+- Language : Python3
+- Topics : basic
+- Link to problem : https://www.codechef.com/problems/HS08TEST
+- Source/Category/Platform : CodeChef
 
 ##Question 10
 - Date : 
