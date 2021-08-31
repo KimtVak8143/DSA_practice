@@ -90,6 +90,22 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 11
+- Date : 31 August 2021
+- Statement : Birthday Cake Candles
+- Language : Python3
+- Topics : list
+- Link to problem : https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+- Source/Category/Platform : HackerRank
+
+##Question 12
+- Date : 31 August 2021
+- Statement : Time Conversion
+- Language : Python3
+- Topics : list, string, 
+- Link to problem : https://www.hackerrank.com/challenges/time-conversion/problem
+- Source/Category/Platform : HackerRank
+
+##Question 13
 - Date : 
 - Statement : 
 - Language :
@@ -97,7 +113,39 @@
 - Link to problem :
 - Source/Category/Platform :
 
-##Question 12
+##Question 14
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 15
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 16
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 17
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 18
 - Date : 
 - Statement : 
 - Language :
