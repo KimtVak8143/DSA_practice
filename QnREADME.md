@@ -82,12 +82,12 @@
 - Source/Category/Platform : CodeChef
 
 ##Question 10
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 31 August 2021
+- Statement : Mini-Max Sum
+- Language : Python3
+- Topics : List, sum
+- Link to problem : https://www.hackerrank.com/challenges/mini-max-sum/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 11
 - Date : 
