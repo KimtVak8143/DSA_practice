@@ -12,8 +12,8 @@ Language : Python
 - Problem 8 : Find the Runner-Up Score !
 - Problem 9 : ATM
 - Problem 10 : Mini-Max Sum
-- Problem 11 :
-- Problem 12 :
+- Problem 11 : Birthday Cake Candles
+- Problem 12 : Time Conversion
 - Problem 13 :
 - Problem 14 :
 - Problem 15 :
