@@ -101,7 +101,7 @@
 - Date : 31 August 2021
 - Statement : Time Conversion
 - Language : Python3
-- Topics : list, string, 
+- Topics : list, string, map, split(':')
 - Link to problem : https://www.hackerrank.com/challenges/time-conversion/problem
 - Source/Category/Platform : HackerRank
 
