@@ -106,12 +106,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 13
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 2 September 2021
+- Statement : The Old Saint And Three Questions
+- Language : Python3
+- Topics : string , basic
+- Link to problem : https://www.codechef.com/CDMN21C/problems/THREEQ
+- Source/Category/Platform : CodeChef
 
 ##Question 14
 - Date : 
