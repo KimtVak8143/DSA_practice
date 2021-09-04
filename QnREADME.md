@@ -114,20 +114,20 @@
 - Source/Category/Platform : CodeChef
 
 ##Question 14
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 3 September 2021
+- Statement : Airline Restrictions 
+- Language : C
+- Topics : list, basic
+- Link to problem : https://www.codechef.com/SEPT21C/problems/AIRLINE
+- Source/Category/Platform : CodeChef
 
 ##Question 15
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 3 September 2021
+- Statement : Travel Pass
+- Language : Python3
+- Topics : list, basic
+- Link to problem : https://www.codechef.com/SEPT21C/problems/TRAVELPS
+- Source/Category/Platform : CodeChef
 
 ##Question 16
 - Date : 
