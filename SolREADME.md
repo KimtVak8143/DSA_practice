@@ -14,9 +14,9 @@ Language : Python
 - Problem 10 : Mini-Max Sum
 - Problem 11 : Birthday Cake Candles
 - Problem 12 : Time Conversion
-- Problem 13 :  The Old Saint And Three Questions
-- Problem 14 :
-- Problem 15 :
+- Problem 13 : The Old Saint And Three Questions
+- Problem 14 : Airline Restrictions 
+- Problem 15 : Travel Pass 
 - Problem 16 :
 - Problem 17 :
 - Problem 18 : 
