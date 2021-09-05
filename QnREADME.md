@@ -130,12 +130,12 @@
 - Source/Category/Platform : CodeChef
 
 ##Question 16
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 5 September 2021
+- Statement : Plus Minus
+- Language : Python3
+- Topics : list, loop
+- Link to problem : https://www.hackerrank.com/challenges/plus-minus/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 17
 - Date : 
