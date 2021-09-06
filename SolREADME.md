@@ -19,7 +19,6 @@ Language : Python
 - Problem 15 : Travel Pass 
 - Problem 16 : Plus Minus
 - Problem 17 : StairCase #
-- Problem 18 : 
+- Problem 18 : Compare the Triplets 
 - Problem 19 :
 - Problem 20 :
-- Problem 21 :

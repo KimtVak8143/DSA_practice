@@ -146,10 +146,27 @@
 - Source/Category/Platform : hackerRank
 
 ##Question 18
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 6 september 2021
+- Statement : Compare the Triplets 
+- Language : Python3
+- Topics : List
+- Link to problem :https://www.hackerrank.com/challenges/compare-the-triplets/problem
+- Source/Category/Platform : Hackerrank
 
+
+##Question 19
+- Date : 6 september 2021
+- Statement : 
+- Language : Python3
+- Topics : List
+- Link to problem :
+- Source/Category/Platform : Hackerrank
+
+
+##Question 20
+- Date : 6 september 2021
+- Statement : 
+- Language : Python3
+- Topics : List
+- Link to problem :
+- Source/Category/Platform : Hackerrank
