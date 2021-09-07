@@ -1,5 +1,6 @@
 # DSA_practice
 Collections of questions solved under DSA
+# Set 1
 Language : Python
 
 - Problem 1 : Swap Case
@@ -20,5 +21,5 @@ Language : Python
 - Problem 16 : Plus Minus
 - Problem 17 : StairCase #
 - Problem 18 : Compare the Triplets 
-- Problem 19 :
-- Problem 20 :
+- Problem 19 : Grading Students
+- Problem 20 : Apple and Oranges

@@ -1,0 +1,170 @@
+#Questions List : Python #Set 2
+
+##Question Template 
+#### (Do Not Remove this)
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 1
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 2
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 3
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 4
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 5
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 6
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 7
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 8
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 9
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 10
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 11
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 12
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 13
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 14
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 15
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 16
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 17
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 18
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 19
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
+
+##Question 20
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :

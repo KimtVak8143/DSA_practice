@@ -1,4 +1,4 @@
-#Questions List : Python
+#Questions List : Python #Set 1
 
 ##Question Template 
 #### (Do Not Remove this)
@@ -156,17 +156,17 @@
 
 ##Question 19
 - Date : 6 september 2021
-- Statement : 
+- Statement : Grading Students
 - Language : Python3
-- Topics : List
-- Link to problem :
+- Topics : List, ceil, Multiple of 5
+- Link to problem : https://www.hackerrank.com/challenges/grading/problem
 - Source/Category/Platform : Hackerrank
 
 
 ##Question 20
-- Date : 6 september 2021
-- Statement : 
+- Date : 7 september 2021
+- Statement : Apple and Oranges
 - Language : Python3
 - Topics : List
-- Link to problem :
+- Link to problem : https://www.hackerrank.com/challenges/apple-and-orange/problem
 - Source/Category/Platform : Hackerrank
