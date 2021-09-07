@@ -18,12 +18,12 @@
 - Source/Category/Platform : Codechef
 
 ##Question 2
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 7 september 2021
+- Statement : Valid Triangle or not
+- Language : Python3
+- Topics : Triangle algo
+- Link to problem : https://www.codechef.com/CCSTART2/problems/TRIVALCH
+- Source/Category/Platform : Codechef
 
 ##Question 3
 - Date : 

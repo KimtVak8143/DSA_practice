@@ -4,7 +4,7 @@ Collections of questions solved under DSA
 Language : Python
 
 - Problem 1 : Alternative square pattern
-- Problem 2 : 
+- Problem 2 : Valid Triangle or not
 - Problem 3 : 
 - Problem 4 : 
 - Problem 5 : 
