@@ -10,12 +10,12 @@
 - Source/Category/Platform :
 
 ##Question 1
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 7 september 2021
+- Statement : Alternative square pattern
+- Language : Python3
+- Topics : list, complex loop structure
+- Link to problem : https://www.codechef.com/CCSTART2/problems/SQALPAT
+- Source/Category/Platform : Codechef
 
 ##Question 2
 - Date : 

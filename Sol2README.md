@@ -3,7 +3,7 @@ Collections of questions solved under DSA
 # Set 2
 Language : Python
 
-- Problem 1 : 
+- Problem 1 : Alternative square pattern
 - Problem 2 : 
 - Problem 3 : 
 - Problem 4 : 
