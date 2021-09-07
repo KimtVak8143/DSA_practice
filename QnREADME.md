@@ -1,4 +1,4 @@
-#Questions List : Python
+#Questions List : Python #Set 1
 
 ##Question Template 
 #### (Do Not Remove this)
@@ -164,7 +164,7 @@
 
 
 ##Question 20
-- Date : 6 september 2021
+- Date : 7 september 2021
 - Statement : Apple and Oranges
 - Language : Python3
 - Topics : List
