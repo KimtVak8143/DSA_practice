@@ -5,7 +5,7 @@ Language : Python
 
 - Problem 1 : Alternative square pattern
 - Problem 2 : Valid Triangle or not
-- Problem 3 : 
+- Problem 3 : Sum is everywhere
 - Problem 4 : 
 - Problem 5 : 
 - Problem 6 : 

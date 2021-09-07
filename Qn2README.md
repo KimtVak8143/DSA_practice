@@ -26,11 +26,11 @@
 - Source/Category/Platform : Codechef
 
 ##Question 3
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
+- Date : 7 september 2021
+- Statement : Sum is everywhere 
+- Language : Python3
+- Topics : Basic
+- Link to problem : https://www.codechef.com/CCSTART2/problems/SUMEVOD
 - Source/Category/Platform :
 
 ##Question 4
