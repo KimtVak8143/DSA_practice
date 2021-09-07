@@ -34,18 +34,18 @@
 - Source/Category/Platform :
 
 ##Question 4
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
+- Date : 7 september 2021
+- Statement : Triangle Everywhere 
+- Language : Python3
+- Topics : Basic
+- Link to problem : https://www.codechef.com/CCSTART2/problems/EXTRICHK
 - Source/Category/Platform :
 
 ##Question 5
-- Date : 
+- Date : 7 september 2021
 - Statement : 
-- Language :
-- Topics :
+- Language : Python3
+- Topics : Basic
 - Link to problem :
 - Source/Category/Platform :
 
