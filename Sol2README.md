@@ -7,7 +7,7 @@ Language : Python
 - Problem 2 : Valid Triangle or not
 - Problem 3 : Sum is everywhere
 - Problem 4 : Triangle Everywhere
-- Problem 5 : 
+- Problem 5 : Finding the percentage
 - Problem 6 : 
 - Problem 7 : 
 - Problem 8 : 

@@ -43,11 +43,11 @@
 
 ##Question 5
 - Date : 7 september 2021
-- Statement : 
+- Statement : Finding the percentage
 - Language : Python3
 - Topics : Basic
-- Link to problem :
-- Source/Category/Platform :
+- Link to problem : https://www.hackerrank.com/challenges/finding-the-percentage/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 6
 - Date : 
