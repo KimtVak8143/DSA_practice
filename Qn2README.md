@@ -42,7 +42,7 @@
 - Source/Category/Platform :
 
 ##Question 5
-- Date : 7 september 2021
+- Date : 8 september 2021
 - Statement : Finding the percentage
 - Language : Python3
 - Topics : Basic
@@ -50,12 +50,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 6
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 8 September 2021
+- Statement : Triangle Quest
+- Language : Python3
+- Topics : Basic math
+- Link to problem : https://www.hackerrank.com/challenges/python-quest-1/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 7
 - Date : 

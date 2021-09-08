@@ -8,7 +8,7 @@ Language : Python
 - Problem 3 : Sum is everywhere
 - Problem 4 : Triangle Everywhere
 - Problem 5 : Finding the percentage
-- Problem 6 : 
+- Problem 6 : Triangle Quest
 - Problem 7 : 
 - Problem 8 : 
 - Problem 9 : 
