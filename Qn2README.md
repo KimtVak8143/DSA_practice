@@ -58,12 +58,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 7
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 9 September 2021
+- Statement : 217. Contains Duplicate
+- Language : Python3
+- Topics : Dictionary, array
+- Link to problem : https://leetcode.com/problems/contains-duplicate/
+- Source/Category/Platform : LeetCode
 
 ##Question 8
 - Date : 
