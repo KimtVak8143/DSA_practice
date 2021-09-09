@@ -66,12 +66,12 @@
 - Source/Category/Platform : LeetCode
 
 ##Question 8
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 9 September 2021
+- Statement : 53. Maximum Subarray
+- Language : Python3
+- Topics : list, array, max()  **IMP**
+- Link to problem : https://leetcode.com/problems/maximum-subarray/
+- Source/Category/Platform : LeetCode
 
 ##Question 9
 - Date : 
