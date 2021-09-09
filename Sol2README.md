@@ -9,8 +9,8 @@ Language : Python
 - Problem 4 : Triangle Everywhere
 - Problem 5 : Finding the percentage
 - Problem 6 : Triangle Quest
-- Problem 7 : 
-- Problem 8 : 
+- Problem 7 : 217. Contains Duplicate
+- Problem 8 : 53. Maximum Subarray
 - Problem 9 : 
 - Problem 10 :
 - Problem 11 :
