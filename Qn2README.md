@@ -58,20 +58,20 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 7
-- Date : 9 September 2021
-- Statement : 217. Contains Duplicate
+- Date : 11 September 2021
+- Statement : Capitalize
 - Language : Python3
-- Topics : Dictionary, array
-- Link to problem : https://leetcode.com/problems/contains-duplicate/
-- Source/Category/Platform : LeetCode
+- Topics : .title(), .capitalize(), .replace()
+- Link to problem : https://www.hackerrank.com/challenges/capitalize/problem
+- Source/Category/Platform : HackerRank
 
 ##Question 8
-- Date : 9 September 2021
-- Statement : 53. Maximum Subarray
-- Language : Python3
-- Topics : list, array, max()  **IMP**
-- Link to problem : https://leetcode.com/problems/maximum-subarray/
-- Source/Category/Platform : LeetCode
+- Date : 
+- Statement : 
+- Language :
+- Topics :
+- Link to problem :
+- Source/Category/Platform :
 
 ##Question 9
 - Date : 
