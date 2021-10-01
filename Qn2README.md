@@ -66,12 +66,12 @@
 - Source/Category/Platform : HackerRank
 
 ##Question 8
-- Date : 
-- Statement : 
-- Language :
-- Topics :
-- Link to problem :
-- Source/Category/Platform :
+- Date : 1 October 2021
+- Statement : Holes in the Text
+- Language : Python3
+- Topics : String
+- Link to problem : https://www.codechef.com/problems/HOLES
+- Source/Category/Platform : CodeChef
 
 ##Question 9
 - Date : 

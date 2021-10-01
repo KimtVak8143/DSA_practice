@@ -10,7 +10,7 @@ Language : Python
 - Problem 5 : Finding the percentage
 - Problem 6 : Triangle Quest
 - Problem 7 : Capitalize
-- Problem 8 : 
+- Problem 8 : Holes in the Text
 - Problem 9 : 
 - Problem 10 :
 - Problem 11 :
